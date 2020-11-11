@@ -10,3 +10,6 @@ https://create.arduino.cc/projecthub/hami/programming-atmega8-using-arduino-ide-
 
 ## making a pcb
 https://www.youtube.com/watch?v=g4iiekExXak
+
+## Minifying project
+https://www.youtube.com/watch?v=30rPt802n1k&feature=youtu.be
