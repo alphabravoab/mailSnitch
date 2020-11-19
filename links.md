@@ -2,6 +2,9 @@
 
 https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/
 
+# sms a6
+https://lastminuteengineers.com/a6-gsm-gprs-module-arduino-tutorial/
+
 
 ## flashing Atmega
 
