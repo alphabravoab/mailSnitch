@@ -1,7 +1,7 @@
 ## wireless
 
 https://lastminuteengineers.com/nrf24l01-arduino-wireless-communication/
-
+https://howtomechatronics.com/tutorials/arduino/arduino-wireless-communication-nrf24l01-tutorial/
 
 ## flashing Atmega
 
